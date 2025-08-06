@@ -9,4 +9,6 @@ Proyectos de TI2
 
 [Kevin](https://github.com/Kevin869)
 
-[Jerewer](https://github.com/Jerewer)
+[Fabian](https://github.com/Jerewer)
+
+[Brandon](https://github.com/ratman-hue)
