@@ -12,3 +12,5 @@ Proyectos de TI2
 [Fabian](https://github.com/Jerewer)
 
 [Brandon](https://github.com/ratman-hue)
+
+[Luis](https://github.com/LuisSrzx777)
