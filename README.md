@@ -16,3 +16,7 @@ Proyectos de TI2
 [Luis](https://github.com/LuisSrzx777)
 
 [Enrique](https://github.com/Enriqueso300)
+
+[Daniel](https://github.com/Daniel96969)
+
+[Daniel](https://github.com/emilovenus/emi-jiji)
