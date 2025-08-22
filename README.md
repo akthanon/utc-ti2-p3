@@ -19,4 +19,4 @@ Proyectos de TI2
 
 [Daniel](https://github.com/Daniel96969)
 
-[Daniel](https://github.com/emilovenus/emi-jiji)
+[Emily](https://github.com/emilovenus/emi-jiji)
